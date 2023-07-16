@@ -1,4 +1,4 @@
-import { Card, Typography} from "@material-ui/core"
+import { Card, Typography} from "@mui/material"
 import { useNavigate, Link, Outlet } from "react-router-dom"
 
 const AboutUs = ({data, setCurrentYear}) => {
